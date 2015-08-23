@@ -42,10 +42,10 @@ CityJS
 - WebJam Club, [@webjam_club](https://twitter.com/webjam_club)
 
 ## Харьков
-- [@kharkivjs](https://twitter.com/kharkivjs)
+- KharkivJS, [@kharkivjs](https://twitter.com/kharkivjs)
 
 ## Челябинск
-- [@chellyjs](https://twitter.com/chellyjs)
+- ChellyJS, [@chellyjs](https://twitter.com/chellyjs)
 
 ## Ярославль
 - Yaroslavl Frontend Meetup, [@yarfrontend](https://twitter.com/yarfrontend),
