@@ -24,6 +24,9 @@ CityJS
 ## Москва
 - MoscowJS, [@moscowjs](https://twitter.com/moscowjs), [moscowjs.ru](http://moscowjs.ru)
 
+## Нижний Новгород
+- NN Frontend, [nnfrontend](https://github.com/nnfrontend)
+
 ## Одесса
 - OdessaJS, [@odessajs](https://twitter.com/odessajs),
   [odessajs.org](https://odessajs.org)
