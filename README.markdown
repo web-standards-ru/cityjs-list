@@ -17,6 +17,7 @@ CityJS
 - LvivJS, [@lvivjs](https://twitter.com/lvivjs)
 
 ## Минск
+- MinskJS, [@MinskJS](https://twitter.com/MinskJS)
 - 4frontby, [@4frontby](https://twitter.com/4frontby)
 - Web Not Bombs, [@webnotbombs](https://twitter.com/webnotbombs),
   [webnotbombs.net](http://webnotbombs.net)
