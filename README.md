@@ -16,7 +16,7 @@
 
 ## Кировоград
 
-- KirovohradJS — [@KirovohradJS](https://twitter.com/kirovohradjs), [kirovohradjs.com](http://kirovohradjs.com)
+- KirovohradJS — [@kirovohradjs](https://twitter.com/kirovohradjs), [kirovohradjs.com](http://kirovohradjs.com)
 
 ## Львов
 
@@ -24,8 +24,8 @@
 
 ## Минск
 
-- MinskJS — [@MinskJS](https://twitter.com/MinskJS)
-- 4frontby — [@4frontby](https://twitter.com/4frontby)
+- MinskJS — [@minskjs](https://twitter.com/MinskJS)
+- 4front — [@4frontby](https://twitter.com/4frontby)
 - Web Not Bombs — [@webnotbombs](https://twitter.com/webnotbombs), [webnotbombs.net](http://webnotbombs.net)
 
 ## Москва
@@ -42,7 +42,7 @@
 
 ## Рязань
 
-- WebPurple — [vk:WebPurple](https://vk.com/webpurple)
+- WebPurple — [vk.com/webpurple](https://vk.com/webpurple)
 
 ## Самара
 
