@@ -14,6 +14,10 @@
 
 - KyivJS — [@kyivjs](https://twitter.com/kyivjs), [kyivjs.org.ua](http://kyivjs.org.ua)
 
+## Кировоград
+
+- KirovohradJS — [@KirovohradJS](https://twitter.com/kirovohradjs), [kirovohradjs.com](http://kirovohradjs.com)
+
 ## Львов
 
 - LvivJS — [@lvivjs](https://twitter.com/lvivjs)
