@@ -57,6 +57,10 @@
 
 - WebJam Club — [@webjam_club](https://twitter.com/webjam_club)
 
+## Ульяновск
+
+- Fronthub — [@frontendsu](https://twitter.com/frontendsu), [http://front-end.su/](http://front-end.su/)
+
 ## Харьков
 
 - KharkivJS — [@kharkivjs](https://twitter.com/kharkivjs)
