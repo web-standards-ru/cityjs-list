@@ -40,6 +40,10 @@
 
 - OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
 
+## Ростов-на-Дону
+
+- Code Hipsters — [@codehipsters](https://twitter.com/codehipsters), [codehipsters.com](http://codehipsters.com/), [vk.com/codehipsters](http://vk.com/codehipsters)
+
 ## Рязань
 
 - WebPurple — [vk.com/webpurple](https://vk.com/webpurple)
