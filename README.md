@@ -2,6 +2,10 @@
 
 Список локальных русскоязычных фронтенд-сообществ, сгруппированный по городам.
 
+## Белгород
+
+- BelgorodJS - [@belgorodjs](http://belgorod-dev.blogspot.ru/)
+
 ## Воронеж
 
 - VoronezhJS — [@voronezhjs](https://twitter.com/voronezhjs)
