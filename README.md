@@ -46,7 +46,7 @@
 
 ## Самара
 
-- SamaraJS — [@samara_frontend](https://twitter.com/samara_frontend)
+- SamaraJS — [@samara_frontend](https://twitter.com/samara_frontend), [samarajs.ru](http://samarajs.ru/), [vk.com/samarajs](http://vk.com/samarajs)
 
 ## Санкт-Петербург
 
