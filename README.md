@@ -36,6 +36,10 @@
 
 - NN Frontend — [nnfrontend](https://github.com/nnfrontend)
 
+## Новосибирск
+
+- JSib — [@jsibnsk](https://twitter.com/jsibnsk), [vk.com/jsibnsk](https://vk.com/jsibnsk), [YouTube/JSibCommunity](https://www.youtube.com/JSibCommunity)
+
 ## Одесса
 
 - OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
