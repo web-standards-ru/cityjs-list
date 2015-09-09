@@ -55,7 +55,7 @@
 
 ## Симферополь
 
-- WebJam Club — [@webjam_club](https://twitter.com/webjam_club)
+- WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club) 
 
 ## Харьков
 
