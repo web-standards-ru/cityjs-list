@@ -65,6 +65,10 @@
 
 - WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club) 
 
+## Тольятти
+
+- TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
+
 ## Харьков
 
 - KharkivJS — [@kharkivjs](https://twitter.com/kharkivjs)
