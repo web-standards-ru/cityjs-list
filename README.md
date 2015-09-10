@@ -63,7 +63,7 @@
 
 ## Тольятти
 
-- TechFriday — [vk.com/techfriday](http://vk.com/techfriday), [slack chat](https://techfriday.slack.com/)
+- TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
 
 ## Харьков
 
