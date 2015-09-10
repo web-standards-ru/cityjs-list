@@ -48,6 +48,10 @@
 
 - OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
 
+## Пенза
+
+- PenzaJS — [facebook.com/groups/penzajs](https://www.facebook.com/groups/penzajs)
+
 ## Ростов-на-Дону
 
 - Code Hipsters — [@codehipsters](https://twitter.com/codehipsters), [codehipsters.com](http://codehipsters.com/), [vk.com/codehipsters](http://vk.com/codehipsters)
