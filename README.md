@@ -4,7 +4,7 @@
 
 ## Белгород
 
-- BelgorodJS - [@belgorodjs](http://belgorod-dev.blogspot.ru/)
+- belgorod-dev — [belgorod-dev.blogspot.ru](http://belgorod-dev.blogspot.ru/)
 
 ## Воронеж
 
