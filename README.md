@@ -46,7 +46,7 @@
 
 ## Пенза
 
-- PenzaJS — [penzajs](https://www.facebook.com/groups/penzajs)
+- PenzaJS — [facebook.com/groups/penzajs](https://www.facebook.com/groups/penzajs)
 
 ## Ростов-на-Дону
 
