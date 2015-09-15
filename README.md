@@ -52,6 +52,10 @@
 
 - PenzaJS — [facebook.com/groups/penzajs](https://www.facebook.com/groups/penzajs)
 
+## Полтава
+
+- PoltavaJS — [@poltavajs](https://twitter.com/poltavajs)
+
 ## Ростов-на-Дону
 
 - Code Hipsters — [@codehipsters](https://twitter.com/codehipsters), [codehipsters.com](http://codehipsters.com/), [vk.com/codehipsters](http://vk.com/codehipsters)
