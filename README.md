@@ -54,7 +54,7 @@
 
 ## Полтава
 
-- PoltavaJS — [@poltavajs](https://twitter.com/poltavajs)
+- PoltavaJS — [@poltavajs](https://twitter.com/poltavajs), [poltavajs.org](http://poltavajs.org/)
 
 ## Ростов-на-Дону
 
