@@ -59,7 +59,7 @@
 
 ## Ульяновск
 
-- Fronthub — [@frontendsu](https://twitter.com/frontendsu), [http://front-end.su/](http://front-end.su/)
+- Fronthub — [https://vk.com/fronthub_ulsk](https://vk.com/fronthub_ulsk), [http://fronthub.ru/](http://fronthub.ru/)
 
 ## Харьков
 
