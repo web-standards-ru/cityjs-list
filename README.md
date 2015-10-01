@@ -81,6 +81,10 @@
 
 - TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
 
+## Ульяновск
+
+- Fronthub — [https://vk.com/fronthub_ulsk](https://vk.com/fronthub_ulsk), [http://fronthub.ru/](http://fronthub.ru/)
+
 ## Харьков
 
 - KharkivJS — [@kharkivjs](https://twitter.com/kharkivjs)
