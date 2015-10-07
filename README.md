@@ -24,7 +24,7 @@
 
 ## Курск
 
-- KurskMeetup — [github.com/kurskmeetup](https://github.com/kurskmeetup/meetups), [vk.com/kurskmeetup](http://vk.com/kurskmeetup)
+- KurskMeetup — [github.com/kurskmeetup](https://github.com/kurskmeetup/meetups), [vk.com/kurskmeetup](https://vk.com/kurskmeetup)
 
 ## Львов
 
