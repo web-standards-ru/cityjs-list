@@ -22,6 +22,10 @@
 
 - KirovohradJS — [@kirovohradjs](https://twitter.com/kirovohradjs), [kirovohradjs.com](http://kirovohradjs.com)
 
+## Курск
+
+- KurskMeetup — [github.com/kurskmeetup](https://github.com/kurskmeetup/meetups), [vk.com/kurskmeetup](http://vk.com/kurskmeetup)
+
 ## Львов
 
 - LvivJS — [@lvivjs](https://twitter.com/lvivjs)
