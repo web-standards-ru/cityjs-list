@@ -46,6 +46,7 @@
 
 ## Новосибирск
 
+- DevDay — [devday.ru](https://devday.ru/) [@devday2gis](https://twitter.com/devday2gis), [facebook.com/DevDay2GIS](https://www.facebook.com/DevDay2GIS)
 - JSib — [@jsibnsk](https://twitter.com/jsibnsk), [vk.com/jsibnsk](https://vk.com/jsibnsk), [YouTube/JSibCommunity](https://www.youtube.com/JSibCommunity)
 
 ## Одесса
@@ -79,7 +80,7 @@
 
 ## Симферополь
 
-- WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club) 
+- WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club)
 
 ## Тольятти
 
