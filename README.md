@@ -85,6 +85,10 @@
 ## Тольятти
 
 - TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
+ 
+## Томск
+
+- TomskJS — [@TomskJs](https://twitter.com/TomskJs), [vk.com/tomskjs](https://vk.com/tomskjs), [tomskjs.ru](http://tomskjs.ru)
 
 ## Ульяновск
 
