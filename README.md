@@ -76,6 +76,7 @@
 ## Санкт-Петербург
 
 - SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend)
+- PiterCSS — [@pitercss](https://twitter.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
 
 ## Симферополь
