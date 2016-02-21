@@ -103,6 +103,10 @@
 
 - ChellyJS — [@chellyjs](https://twitter.com/chellyjs)
 
+## Чернигов
+
+- ChernihivJS — [@chernihivjs](https://twitter.com/chernihivjs), [chernihivjs.org.ua](https://chernihivjs.org.ua/)
+
 ## Ярославль
 
 - Yaroslavl Frontend Meetup — [@yarfrontend](https://twitter.com/yarfrontend), [yarfrontend.ru](http://yarfrontend.ru)
