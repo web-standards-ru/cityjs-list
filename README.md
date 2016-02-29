@@ -80,7 +80,7 @@
 ## Санкт-Петербург
 
 - SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend), [vk.com/spb_frontend](https://vk.com/spb_frontend)
-- PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss/), [pitercss.ru](http://pitercss.ru)
+- PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
 
 ## Симферополь
