@@ -59,7 +59,7 @@
 
 ## Пенза
 
-- PenzaJS — [facebook.com/groups/penzajs](https://www.facebook.com/groups/penzajs)
+- PenzaJS — [fb.com/groups/penzajs](https://www.facebook.com/groups/penzajs), [vk.com/penzajs](https://vk.com/penzajs)
 
 ## Полтава
 
