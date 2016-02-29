@@ -46,7 +46,7 @@
 
 ## Новосибирск
 
-- DevDay — [devday.ru](https://devday.ru/) [@devday2gis](https://twitter.com/devday2gis), [facebook.com/DevDay2GIS](https://www.facebook.com/DevDay2GIS)
+- DevDay — [devday.ru](https://devday.ru/) [@devday2gis](https://twitter.com/devday2gis), [fb.com/DevDay2GIS](https://www.facebook.com/DevDay2GIS)
 - JSib — [@jsibnsk](https://twitter.com/jsibnsk), [vk.com/jsibnsk](https://vk.com/jsibnsk), [YouTube/JSibCommunity](https://www.youtube.com/JSibCommunity)
 
 ## Одесса
@@ -79,8 +79,8 @@
 
 ## Санкт-Петербург
 
-- SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend)
-- PiterCSS — [@pitercss](https://twitter.com/pitercss), [pitercss.ru](http://pitercss.ru)
+- SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend), [vk.com/spb_frontend](https://vk.com/spb_frontend)
+- PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss/), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
 
 ## Симферополь
@@ -97,7 +97,7 @@
 
 ## Ульяновск
 
-- Fronthub — [https://vk.com/fronthub_ulsk](https://vk.com/fronthub_ulsk), [http://fronthub.ru/](http://fronthub.ru/)
+- Fronthub — [vk.com/fronthub_ulsk](https://vk.com/fronthub_ulsk), [fronthub.ru](http://fronthub.ru/)
 
 ## Харьков
 
