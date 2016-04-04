@@ -4,7 +4,7 @@
 
 ## Белгород
 
-- belgorod-dev — [belgorod-dev.blogspot.ru](http://belgorod-dev.blogspot.ru/)
+- belgorod-dev — [belgorod-dev.blogspot.ru](http://belgorod-dev.blogspot.ru/), [vk.com/belgoroddev](https://vk.com/belgoroddev)
 
 ## Воронеж
 
@@ -38,6 +38,7 @@
 
 ## Москва
 
+- BeerJS — [meetup.com/BeerJS-Moscow](http://www.meetup.com/BeerJS-Moscow/)
 - MoscowJS — [@moscowjs](https://twitter.com/moscowjs), [moscowjs.ru](http://moscowjs.ru)
 
 ## Нижний Новгород
@@ -68,6 +69,7 @@
 ## Ростов-на-Дону
 
 - Code Hipsters — [@codehipsters](https://twitter.com/codehipsters), [codehipsters.com](http://codehipsters.com/), [vk.com/codehipsters](http://vk.com/codehipsters)
+- RND.JS — [vk.com/rndjs](https://vk.com/rndjs)
 
 ## Рязань
 
@@ -89,6 +91,7 @@
 
 ## Тольятти
 
+- FrontDays — [frontdays.ru](http://frontdays.ru/), [vk.com/frontdays](https://vk.com/frontdays)
 - TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
  
 ## Томск
