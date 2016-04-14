@@ -54,10 +54,6 @@
 
 - OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
 
-## Оренбург
-
-- OrenJS — [vk.com/orenjs](https://vk.com/orenjs)
-
 ## Пенза
 
 - PenzaJS — [fb.com/groups/penzajs](https://www.facebook.com/groups/penzajs), [vk.com/penzajs](https://vk.com/penzajs)
