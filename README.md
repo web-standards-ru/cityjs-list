@@ -81,6 +81,10 @@
 - PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
 
+## Саратов
+
+- SaratovJS — [vk.com/saratovjs](https://vk.com/saratovjs)
+
 ## Симферополь
 
 - WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club)
