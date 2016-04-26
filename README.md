@@ -10,6 +10,10 @@
 
 - VoronezhJS — [@voronezhjs](https://twitter.com/voronezhjs)
 
+## Владивосток
+
+- VLDC – [@vldcru](https://twitter.com/vldcru)
+
 ## Екатеринбург
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
