@@ -16,7 +16,7 @@
 
 ## Казань
 
-- Казань фронтенд [vk.com/kazanfrontend](https://new.vk.com/kazanfrontend)
+- Казань фронтенд [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
 
 ## Киев
 
