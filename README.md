@@ -14,6 +14,10 @@
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
 
+## Казань
+
+- Казань фронтенд [vk.com/kazanfrontend](https://new.vk.com/kazanfrontend)
+
 ## Киев
 
 - KyivJS — [@kyivjs](https://twitter.com/kyivjs), [kyivjs.org.ua](http://kyivjs.org.ua)
