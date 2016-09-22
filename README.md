@@ -12,7 +12,7 @@
 
 ## Владивосток
 
-- VLDC – [@vldcru](https://twitter.com/vldcru), [vk.com/vldcru](https://vk.com/vldcru), [vldc.org](http://vldc.org)
+- VLDC — [@vldcru](https://twitter.com/vldcru), [vk.com/vldcru](https://vk.com/vldcru), [vldc.org](http://vldc.org)
 
 ## Екатеринбург
 
@@ -20,7 +20,7 @@
 
 ## Казань
 
-- Казань фронтенд [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
+- Казань фронтенд — [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
 
 ## Киев
 
@@ -40,8 +40,8 @@
 
 ## Минск
 
-- MinskJS — [@minskjs](https://twitter.com/MinskJS)
 - 4front — [@4frontby](https://twitter.com/4frontby)
+- MinskJS — [@minskjs](https://twitter.com/MinskJS)
 - Web Not Bombs — [@webnotbombs](https://twitter.com/webnotbombs), [webnotbombs.net](http://webnotbombs.net)
 
 ## Москва
@@ -85,11 +85,12 @@
 
 ## Санкт-Петербург
 
-- SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend), [vk.com/spb_frontend](https://vk.com/spb_frontend)
+- Node.js SPb — [telegram.me/spbnodejs](https://telegram.me/spbnodejs), [spbnodejs.org](http://spbnodejs.org)
+- NodeSchool SPb — [@nodeschoolspb](https://twitter.com/nodeschoolspb), [nodeschool/spb](https://github.com/nodeschool/spb)
 - PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
-- NodeSchool SPb — [@nodeschoolspb](https://twitter.com/nodeschoolspb), [nodeschool/spb](https://github.com/nodeschool/spb)
-- Node.js SPb — [telegram.me/spbnodejs](https://telegram.me/spbnodejs), [spbnodejs.org](http://spbnodejs.org)
+- SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend), [vk.com/spb_frontend](https://vk.com/spb_frontend)
+
 
 ## Саратов
 
