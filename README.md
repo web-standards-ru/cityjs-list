@@ -89,6 +89,7 @@
 - PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
 - NodeSchool SPb — [@nodeschoolspb](https://twitter.com/nodeschoolspb), [nodeschool/spb](https://github.com/nodeschool/spb)
+- Node.js SPb — [telegram.me/spbnodejs](https://telegram.me/spbnodejs), [spbnodejs.org](http://spbnodejs.org)
 
 ## Саратов
 
