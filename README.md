@@ -12,7 +12,7 @@
 
 ## Владивосток
 
-- VLDC – [@vldcru](https://twitter.com/vldcru)
+- VLDC – [@vldcru](https://twitter.com/vldcru), [vk.com/vldcru](https://vk.com/vldcru), [vldc.org](http://vldc.org)
 
 ## Екатеринбург
 
