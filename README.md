@@ -64,7 +64,7 @@
 
 ## Омск
 
-- Frontend Omsk - [https://vk.com/frontendomsk]
+- Frontend Omsk - (vk.com/frontendomsk)[https://vk.com/frontendomsk]
 
 ## Пенза
 
