@@ -62,6 +62,10 @@
 
 - OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
 
+## Омск
+
+- Frontend Omsk - [https://vk.com/frontendomsk]
+
 ## Пенза
 
 - PenzaJS — [fb.com/groups/penzajs](https://www.facebook.com/groups/penzajs), [vk.com/penzajs](https://vk.com/penzajs)
