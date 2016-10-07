@@ -2,6 +2,10 @@
 
 Список локальных русскоязычных фронтенд-сообществ, сгруппированный по городам.
 
+## Астана
+
+- AST Frontend — [fb.com/astfrontend](https://www.facebook.com/astfrontend/), [@astfrontend](https://twitter.com/astfrontend), [github.com/astfrontend](https://github.com/astfrontend)
+
 ## Белгород
 
 - belgorod-dev — [belgorod-dev.blogspot.ru](http://belgorod-dev.blogspot.ru/), [vk.com/belgoroddev](https://vk.com/belgoroddev)
