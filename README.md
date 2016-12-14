@@ -135,7 +135,7 @@
 
 ## Черновцы
 
-- ChernivtsiJS – [@chernivtsijs](https://twitter.com/chernivtsijs), [http://chernivtsi.js.org/](http://chernivtsi.js.org/)
+- ChernivtsiJS – [@chernivtsijs](https://twitter.com/chernivtsijs), [http://chernivtsi.js.org/](http://chernivtsi.js.org/), [FB: chernivtsijs](https://www.facebook.com/chernivtsijs/)
 
 ## Ярославль
 
