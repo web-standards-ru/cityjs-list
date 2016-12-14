@@ -24,7 +24,7 @@
 
 ## Казань
 
-- Казань фронтенд — [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
+- Казань фронтенд — [telegram.me/kazanfrontend](https://telegram.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
 
 ## Киев
 
