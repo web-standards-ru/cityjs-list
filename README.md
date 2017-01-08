@@ -28,7 +28,7 @@
 
 ## Киев
 
-- KyivJS — [@kyivjs](https://twitter.com/kyivjs), [kyivjs.org.ua](http://kyivjs.org.ua)
+- KyivJS — [@kyivjs](https://twitter.com/kyivjs), [kyivjs.org](http://kyivjs.org)
 
 ## Кировоград
 
