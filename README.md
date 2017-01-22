@@ -22,6 +22,10 @@
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
 
+## Иннополис
+
+- InnopolisJS - [innopolisjs.ru](http://innopolisjs.ru/)
+
 ## Казань
 
 - Казань фронтенд — [telegram.me/kazanfrontend](https://telegram.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
