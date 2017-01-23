@@ -25,6 +25,7 @@
 ## Казань
 
 - Казань фронтенд — [telegram.me/kazanfrontend](https://telegram.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
+- InnopolisJS - [innopolisjs.ru](http://innopolisjs.ru/)
 
 ## Киев
 
