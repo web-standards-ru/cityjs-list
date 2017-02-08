@@ -21,6 +21,7 @@
 ## Екатеринбург
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
+- UralJS — [@uraljs](https://twitter.com/uraljs), [vk.com/uraljs](https://vk.com/uraljs)
 
 ## Казань
 
