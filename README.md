@@ -54,7 +54,7 @@
 
 - BeerJS — [meetup.com/BeerJS-Moscow](http://www.meetup.com/BeerJS-Moscow/)
 - MoscowJS — [@moscowjs](https://twitter.com/moscowjs), [moscowjs.ru](http://moscowjs.ru)
-- moscowcss — [@cssmoscow](https://twitter.com/cssmoscow), [fb.com/css_moscow](https://www.facebook.com/css_moscow/), [vk.com/cssmoscow](https://vk.com/cssmoscow), [css.moscow](http://css.moscow)
+- moscowcss — [@cssmoscow](https://twitter.com/cssmoscow), [fb.com/cssmoscow](https://www.facebook.com/cssmoscow), [vk.com/css_moscow](https://vk.com/css_moscow), [css.moscow](http://css.moscow)
 
 ## Нижний Новгород
 
