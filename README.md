@@ -126,7 +126,7 @@
 
 ## Хабаровск
 
-- Ha.js - [hajs.ru](http://hajs.ru/)
+- Ha.js - [hajs.ru](http://hajs.ru/), [@HaJSru](https://twitter.com/HaJSru)
 
 ## Харьков
 
