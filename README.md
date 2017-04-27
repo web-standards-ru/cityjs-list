@@ -124,6 +124,10 @@
 
 - Fronthub — [vk.com/fronthub_ulsk](https://vk.com/fronthub_ulsk), [fronthub.ru](http://fronthub.ru/)
 
+## Хабаровск
+
+- Ha.js - [hajs.ru](http://hajs.ru/)
+
 ## Харьков
 
 - KharkivJS — [@kharkivjs](https://twitter.com/kharkivjs)
