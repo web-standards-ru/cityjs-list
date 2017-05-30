@@ -73,6 +73,11 @@
 
 - Frontend Omsk - [vk.com/frontendomsk](https://vk.com/frontendomsk)
 
+## Орёл
+
+- OrelJS — [oreljs.ru](http://oreljs.ru), [vk.com/oreljs](https://vk.com/oreljs)
+
+
 ## Пенза
 
 - PenzaJS — [fb.com/groups/penzajs](https://www.facebook.com/groups/penzajs), [vk.com/penzajs](https://vk.com/penzajs)
