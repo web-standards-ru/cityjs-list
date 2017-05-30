@@ -26,7 +26,7 @@
 ## Казань
 
 - Казань фронтенд — [telegram.me/kazanfrontend](https://telegram.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
-- InnopolisJS - [innopolisjs.ru](http://innopolisjs.ru/)
+- InnopolisJS — [innopolisjs.ru](http://innopolisjs.ru/)
 
 ## Киев
 
@@ -71,12 +71,11 @@
 
 ## Омск
 
-- Frontend Omsk - [vk.com/frontendomsk](https://vk.com/frontendomsk)
+- Frontend Omsk — [vk.com/frontendomsk](https://vk.com/frontendomsk)
 
 ## Орёл
 
 - OrelJS — [oreljs.ru](http://oreljs.ru), [vk.com/oreljs](https://vk.com/oreljs)
-
 
 ## Пенза
 
@@ -147,7 +146,7 @@
 
 ## Черновцы
 
-- ChernivtsiJS – [@chernivtsijs](https://twitter.com/chernivtsijs), [http://chernivtsi.js.org/](http://chernivtsi.js.org/), [FB: chernivtsijs](https://www.facebook.com/chernivtsijs/)
+- ChernivtsiJS — [@chernivtsijs](https://twitter.com/chernivtsijs), [http://chernivtsi.js.org/](http://chernivtsi.js.org/), [FB: chernivtsijs](https://www.facebook.com/chernivtsijs/)
 
 ## Ярославль
 
