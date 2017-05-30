@@ -72,7 +72,7 @@
 
 ## Орёл
 
-- OrelJS - [oreljs.ru](http://oreljs.ru), [vk.com/oreljs](https://vk.com/oreljs)
+- OrelJS — [oreljs.ru](http://oreljs.ru), [vk.com/oreljs](https://vk.com/oreljs)
 
 
 ## Пенза
