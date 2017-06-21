@@ -59,7 +59,7 @@
 ## Нижний Новгород
 
 - NN Frontend — [nnfrontend](https://github.com/nnfrontend)
-- JS NN – [chat](https://t.me/js_nn)
+- JS NN — [telegram/js_nn](https://telegram.me/js_nn)
 
 ## Новосибирск
 
