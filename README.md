@@ -70,6 +70,7 @@
 ## Одесса
 
 - OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
+- OdessaFrontend — [fb.com/odessafrontend](https://www.facebook.com/odessafrontend), [odessafrontend.com](http://odessafrontend.com)
 
 ## Омск
 
