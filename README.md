@@ -22,7 +22,7 @@
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
 - UralJS — [@uraljs](https://twitter.com/uraljs), [vk.com/uraljs](https://vk.com/uraljs)
-- BeerJS Ekaterinburg - [telegram.me/beerjs_ekb](https://t.me/beerjs_ekb), [repo](https://github.com/beerjs/ekb)
+- BeerJS Ekaterinburg — [telegram.me/beerjs_ekb](https://t.me/beerjs_ekb), [beerjs/ekb](https://github.com/beerjs/ekb)
 
 ## Казань
 
