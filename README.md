@@ -37,6 +37,10 @@
 
 - KirovohradJS — [@kirovohradjs](https://twitter.com/kirovohradjs), [kirovohradjs.com](http://kirovohradjs.com)
 
+## Краснодар
+
+- Krasnodar Frontend - [vk.com/krddevdays](https://vk.com/krddevdays), [@krddevdays](https://twitter.com/krddevdays), [Slack](http://slack.krddevdays.ru/)
+
 ## Курск
 
 - KurskMeetup — [github.com/kurskmeetup](https://github.com/kurskmeetup/meetups), [vk.com/kurskmeetup](https://vk.com/kurskmeetup)
