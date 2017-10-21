@@ -39,7 +39,7 @@
 
 ## Краснодар
 
-- Frontend Krasnodar - [vk.com/krddevdays](https://vk.com/krddevdays), [@krddevdays](https://twitter.com/krddevdays), [Slack](http://slack.krddevdays.ru/)
+- Frontend Krasnodar — [vk.com/krddevdays](https://vk.com/krddevdays), [@krddevdays](https://twitter.com/krddevdays), [Slack](http://slack.krddevdays.ru/)
 
 ## Курск
 
