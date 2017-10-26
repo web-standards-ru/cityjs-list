@@ -126,6 +126,8 @@
 
 ## Тольятти
 
+- WebDev Meetup — [wdmeetup.ru](http://wdmeetup.ru), [vk.com/webdevmeetup](https://vk.com/webdevmeetup)
+- BeerJS — [github.com/beerjs/togliatti](https://github.com/beerjs/togliatti)
 - FrontDays — [frontdays.ru](http://frontdays.ru/), [vk.com/frontdays](https://vk.com/frontdays)
 - TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
  
