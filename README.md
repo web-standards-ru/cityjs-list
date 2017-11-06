@@ -47,7 +47,7 @@
 
 ## Львов
 
-- LvivJS — [@lvivjs](https://twitter.com/lvivjs)
+- LvivJS — [@lvivjs](https://twitter.com/lvivjs), [lvivjs.org.ua](http://lvivjs.org.ua/)
 
 ## Минск
 
