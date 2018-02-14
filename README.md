@@ -63,6 +63,7 @@
 - BeerJS — [meetup.com/BeerJS-Moscow](http://www.meetup.com/BeerJS-Moscow/)
 - MoscowJS — [@moscowjs](https://twitter.com/moscowjs), [moscowjs.ru](http://moscowjs.ru)
 - moscowcss — [@css_moscow](https://twitter.com/css_moscow), [fb.com/cssmoscow](https://www.facebook.com/cssmoscow), [vk.com/css_moscow](https://vk.com/css_moscow), [css.moscow](http://css.moscow)
+- FreeCodeCamp Moscow — [Facebook](https://www.facebook.com/groups/free.code.camp.moscow/events/)
 
 ## Нижний Новгород
 
