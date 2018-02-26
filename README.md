@@ -53,8 +53,8 @@
 ## Минск
 
 - 4front — [@4frontby](https://twitter.com/4frontby)
-- MinskCSS — [@minskcss](https://twitter.com/MinskCSS), [minskcss.by](http://minskcss.by)
 - MinskJS — [@minskjs](https://twitter.com/MinskJS), [vk.com/minskjs](https://vk.com/minskjs), [fb.com/MinskJS](https://www.facebook.com/MinskJS/), [minskjs.by](http://minskjs.by)
+- MinskCSS — [@minskcss](https://twitter.com/MinskCSS), [vk.com/minskcss_meetup](https://vk.com/minskcss_meetup), [fb.com/MinskCSS](https://www.facebook.com/MinskCSS/), [minskcss.by](http://minskcss.by)
 - The Rolling Scopes — [@rollingscopes](https://twitter.com/rollingscopes), [rollingscopes.com](https://rollingscopes.com)
 - Web Not Bombs — [@webnotbombs](https://twitter.com/webnotbombs), [webnotbombs.net](http://webnotbombs.net)
 
