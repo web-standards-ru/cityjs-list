@@ -53,8 +53,8 @@
 ## Минск
 
 - 4front — [@4frontby](https://twitter.com/4frontby)
-- MinskJS — [@minskjs](https://twitter.com/MinskJS), [minskjs.by](http://minskjs.by)
 - MinskCSS — [@minskcss](https://twitter.com/MinskCSS), [minskcss.by](http://minskcss.by)
+- MinskJS — [@minskjs](https://twitter.com/MinskJS), [vk.com/minskjs](https://vk.com/minskjs), [fb.com/MinskJS](https://www.facebook.com/MinskJS/), [minskjs.by](http://minskjs.by)
 - The Rolling Scopes — [@rollingscopes](https://twitter.com/rollingscopes), [rollingscopes.com](https://rollingscopes.com)
 - Web Not Bombs — [@webnotbombs](https://twitter.com/webnotbombs), [webnotbombs.net](http://webnotbombs.net)
 
@@ -132,7 +132,7 @@
 - BeerJS — [beerjs/togliatti](https://github.com/beerjs/togliatti)
 - FrontDays — [frontdays.ru](http://frontdays.ru/), [vk.com/frontdays](https://vk.com/frontdays)
 - TechFriday — [vk.com/techfriday](https://vk.com/techfriday)
- 
+
 ## Томск
 
 - TomskJS — [@TomskJs](https://twitter.com/TomskJs), [vk.com/tomskjs](https://vk.com/tomskjs), [tomskjs.ru](http://tomskjs.ru)
