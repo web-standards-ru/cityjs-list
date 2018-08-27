@@ -151,7 +151,8 @@
 
 ## Челябинск
 
-- ChellyJS — [@chellyjs](https://twitter.com/chellyjs)
+- FRONTday — [frontday.ru](https://frontday.ru), [vk.com/frontday](https://vk.com/frontday), [telegram.me/frontday](https://t.me/frontday)
+- BeerJS Челябинск — [beerjs/chelyabinsk](https://github.com/beerjs/chelyabinsk), [telegram.me/beerjs_chel](https://t.me/beerjs_chel)
 
 ## Чернигов
 
