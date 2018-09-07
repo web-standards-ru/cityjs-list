@@ -5,8 +5,8 @@
 ## Астана
 
 - AST Frontend — [fb.com/astfrontend](https://www.facebook.com/astfrontend/), [@astfrontend](https://twitter.com/astfrontend), [github.com/astfrontend](https://github.com/astfrontend)
-- AstanaJS - [fb.com/groups/astanajs](https://www.facebook.com/groups/astanajs/)
-- BeerJS Astana - [beerjs/astana](https://github.com/beerjs/astana), [fb.com/groups/beerJSAstana](https://www.facebook.com/groups/beerJSAstana/), [meetup.com/BeerJS-Astana](http://www.meetup.com/BeerJS-Astana/), [telegram.me/beerjsastana](https://t.me/beerjsastana)
+- AstanaJS — [fb.com/groups/astanajs](https://www.facebook.com/groups/astanajs/)
+- BeerJS Astana — [beerjs/astana](https://github.com/beerjs/astana), [fb.com/groups/beerJSAstana](https://www.facebook.com/groups/beerJSAstana/), [meetup.com/BeerJS-Astana](http://www.meetup.com/BeerJS-Astana/), [telegram.me/beerjsastana](https://t.me/beerjsastana)
 
 ## Белгород
 
