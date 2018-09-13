@@ -34,7 +34,7 @@
 ## Киев
 
 - KyivJS — [@kyivjs](https://twitter.com/kyivjs), [kyivjs.org](http://kyivjs.org)
-- Мееtup Тоnіght — [@tech_tonight](https://t.me/tech_tonight), [Список мероприятий](https://www.facebook.com/pg/RailsReactor/events/?ref=page_internal)
+- Мееtup Тоnіght — [@tech_tonight](https://t.me/tech_tonight), [список событий](https://www.facebook.com/RailsReactor/events)
 - BeerJS Kyiv — [@beerjskyiv](https://t.me/beerjskyiv)
 
 ## Кировоград
