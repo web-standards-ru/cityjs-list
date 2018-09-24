@@ -6,7 +6,7 @@
 
 - AST Frontend — [fb.com/astfrontend](https://www.facebook.com/astfrontend/), [@astfrontend](https://twitter.com/astfrontend), [github.com/astfrontend](https://github.com/astfrontend)
 - AstanaJS — [fb.com/groups/astanajs](https://www.facebook.com/groups/astanajs/)
-- BeerJS Astana — [beerjs/astana](https://github.com/beerjs/astana), [fb.com/groups/beerJSAstana](https://www.facebook.com/groups/beerJSAstana/), [meetup.com/BeerJS-Astana](http://www.meetup.com/BeerJS-Astana/), [telegram.me/beerjsastana](https://t.me/beerjsastana)
+- BeerJS Astana — [beerjs/astana](https://github.com/beerjs/astana), [fb.com/groups/beerJSAstana](https://www.facebook.com/groups/beerJSAstana/), [meetup.com/BeerJS-Astana](http://www.meetup.com/BeerJS-Astana/), [t.me/beerjsastana](https://t.me/beerjsastana)
 
 ## Белгород
 
@@ -24,11 +24,11 @@
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
 - UralJS — [@uraljs](https://twitter.com/uraljs), [vk.com/uraljs](https://vk.com/uraljs)
-- BeerJS Ekaterinburg — [telegram.me/beerjs_ekb](https://t.me/beerjs_ekb), [beerjs/ekb](https://github.com/beerjs/ekb)
+- BeerJS Ekaterinburg — [t.me/beerjs_ekb](https://t.me/beerjs_ekb), [beerjs/ekb](https://github.com/beerjs/ekb)
 
 ## Казань
 
-- Казань фронтенд — [telegram.me/kazanfrontend](https://telegram.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
+- Казань фронтенд — [t.me/kazanfrontend](https://t.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
 - InnopolisJS — [innopolisjs.ru](http://innopolisjs.ru/)
 
 ## Киев
@@ -72,7 +72,7 @@
 ## Нижний Новгород
 
 - NN Frontend — [nnfrontend](https://github.com/nnfrontend)
-- JS NN — [telegram/js_nn](https://telegram.me/js_nn)
+- JS NN — [t.me/js_nn](https://t.me/js_nn)
 
 ## Новосибирск
 
@@ -115,7 +115,7 @@
 
 ## Санкт-Петербург
 
-- Node.js SPb — [telegram.me/spbnodejs](https://telegram.me/spbnodejs), [spbnodejs.org](http://spbnodejs.org)
+- Node.js SPb — [t.me/spbnodejs](https://t.me/spbnodejs), [spbnodejs.org](http://spbnodejs.org)
 - NodeSchool SPb — [@nodeschoolspb](https://twitter.com/nodeschoolspb), [nodeschool/spb](https://github.com/nodeschool/spb)
 - PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
@@ -129,6 +129,10 @@
 ## Симферополь
 
 - WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club)
+
+## Таганрог
+
+- JS Tgn Weekends — [vk.com/js_tgn](https://vk.com/js_tgn), [t.me/js_tgn](https://t.me/js_tgn)
 
 ## Тольятти
 
@@ -155,8 +159,8 @@
 
 ## Челябинск
 
-- FRONTday — [frontday.ru](https://frontday.ru), [vk.com/frontday](https://vk.com/frontday), [telegram.me/frontday](https://t.me/frontday)
-- BeerJS Челябинск — [beerjs/chelyabinsk](https://github.com/beerjs/chelyabinsk), [telegram.me/beerjs_chel](https://t.me/beerjs_chel)
+- FRONTday — [frontday.ru](https://frontday.ru), [vk.com/frontday](https://vk.com/frontday), [t.me/frontday](https://t.me/frontday)
+- BeerJS Челябинск — [beerjs/chelyabinsk](https://github.com/beerjs/chelyabinsk), [t.me/beerjs_chel](https://t.me/beerjs_chel)
 
 ## Чернигов
 
