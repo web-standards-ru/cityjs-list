@@ -130,6 +130,10 @@
 
 - WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club)
 
+## Таганрог
+
+- JS Tgn Weekends - [vk.com/js_tgn](https://vk.com/js_tgn), [telegram.me/js_tgn](https://t.me/js_tgn)
+
 ## Тольятти
 
 - WebDev Meetup — [wdmeetup.ru](http://wdmeetup.ru), [vk.com/webdevmeetup](https://vk.com/webdevmeetup)
