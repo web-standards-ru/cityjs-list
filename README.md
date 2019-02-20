@@ -22,7 +22,7 @@
 
 ## Донецк
 
-- DonetskJS — [donetsk-js.ru](https://donetsk-js.ru/) [vk.com/donetsk_js](https://vk.com/donetsk_js) [t.me/donetsk_js](https://t.me/donetsk_js)
+- DonetskJS — [donetsk-js.ru](https://donetsk-js.ru/), [vk.com/donetsk_js](https://vk.com/donetsk_js), [t.me/donetsk_js](https://t.me/donetsk_js)
 
 ## Екатеринбург
 
