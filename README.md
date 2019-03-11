@@ -20,10 +20,6 @@
 
 - VLDC — [@vldcorg](https://twitter.com/vldcorg), [vk.com/vldcorg](https://vk.com/vldcorg), [vldc.org](http://vldc.org)
 
-## Донецк
-
-- DonetskJS — [donetsk-js.ru](https://donetsk-js.ru/), [vk.com/donetsk_js](https://vk.com/donetsk_js), [t.me/donetsk_js](https://t.me/donetsk_js)
-
 ## Екатеринбург
 
 - EkbJS — [@ekbjs](https://twitter.com/ekbjs)
