@@ -129,7 +129,8 @@
 
 ## Симферополь
 
-- WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [webjam.club](http://webjam.club)
+- WebJam Club — [@webjam_club](https://twitter.com/webjam_club), [facebook](https://www.facebook.com/groups/web.jam/
+- Simferopol Frontend [t.me/simferopol_frontend](https://t.me/simferopol_frontend)
 
 ## Таганрог
 
