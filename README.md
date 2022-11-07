@@ -168,10 +168,6 @@
 
 - ChernihivJS — [@chernihivjs](https://twitter.com/chernihivjs), [chernihivjs.org.ua](https://chernihivjs.org.ua/)
 
-## Черновцы
-
-- ChernivtsiJS — [@chernivtsijs](https://twitter.com/chernivtsijs), [http://chernivtsi.js.org/](http://chernivtsi.js.org/), [FB: chernivtsijs](https://www.facebook.com/chernivtsijs/)
-
 ## Ярославль
 
 - Yaroslavl Frontend Meetup — [@yarfrontend](https://twitter.com/yarfrontend), [yarfrontend.ru](http://yarfrontend.ru)
