@@ -33,17 +33,6 @@
 - Казань фронтенд — [t.me/kazanfrontend](https://t.me/kazanfrontend), [vk.com/kazanfrontend](https://vk.com/kazanfrontend)
 - InnopolisJS — [innopolisjs.ru](http://innopolisjs.ru/)
 
-## Киев
-
-- KyivJS — [@kyivjs](https://twitter.com/kyivjs), [kyivjs.org](http://kyivjs.org)
-- Мееtup Тоnіght — [@tech_tonight](https://t.me/tech_tonight), [список событий](https://www.facebook.com/RailsReactor/events)
-- BeerJS Kyiv — [@beerjskyiv](https://t.me/beerjskyiv)
-- Math.Random() — [http://mathrandom.com/](http://mathrandom.com/)
-
-## Кировоград
-
-- KirovohradJS — [@kirovohradjs](https://twitter.com/kirovohradjs), [kirovohradjs.com](http://kirovohradjs.com)
-
 ## Краснодар
 
 - Frontend Krasnodar — [vk.com/krddevdays](https://vk.com/krddevdays), [@krddevdays](https://twitter.com/krddevdays), [Slack](http://slack.krddevdays.ru/)
@@ -51,11 +40,6 @@
 ## Курск
 
 - KurskMeetup — [github.com/kurskmeetup](https://github.com/kurskmeetup/meetups), [vk.com/kurskmeetup](https://vk.com/kurskmeetup)
-
-## Львов
-
-- LvivJS — [@lvivjs](https://twitter.com/lvivjs), [lvivjs.org.ua](http://lvivjs.org.ua/)
-- LvivCSS — [lvivcss.com.ua](http://www.lvivcss.com.ua/), [fb.com/lvivcss](https://www.facebook.com/lvivcss/)
 
 ## Минск
 
@@ -82,11 +66,6 @@
 - DevDay — [devday.ru](https://devday.ru/) [@devday2gis](https://twitter.com/devday2gis), [fb.com/DevDay2GIS](https://www.facebook.com/DevDay2GIS)
 - JSib — [@jsibnsk](https://twitter.com/jsibnsk), [vk.com/jsibnsk](https://vk.com/jsibnsk), [YouTube/JSibCommunity](https://www.youtube.com/JSibCommunity)
 
-## Одесса
-
-- OdessaJS — [@odessajs](https://twitter.com/odessajs), [odessajs.org](https://odessajs.org)
-- OdessaFrontend — [fb.com/odessafrontend](https://www.facebook.com/odessafrontend), [odessafrontend.com](http://odessafrontend.com)
-
 ## Омск
 
 - Frontend Omsk — [vk.com/frontendomsk](https://vk.com/frontendomsk)
@@ -98,10 +77,6 @@
 ## Пенза
 
 - PenzaJS — [fb.com/groups/penzajs](https://www.facebook.com/groups/penzajs), [vk.com/penzajs](https://vk.com/penzajs)
-
-## Полтава
-
-- PoltavaJS — [@poltavajs](https://twitter.com/poltavajs), [poltavajs.org](http://poltavajs.org/)
 
 ## Ростов-на-Дону
 
@@ -123,7 +98,6 @@
 - PiterCSS — [@pitercss](https://twitter.com/pitercss), [fb.com/pitercss](https://www.facebook.com/pitercss/), [vk.com/pitercss](https://vk.com/pitercss), [pitercss.ru](http://pitercss.ru)
 - PiterJS — [@gopiterjs](https://twitter.com/gopiterjs)
 - SPB Frontend — [@spb_frontend](https://twitter.com/spb_frontend), [vk.com/spb_frontend](https://vk.com/spb_frontend)
-
 
 ## Саратов
 
@@ -157,22 +131,10 @@
 
 - Ha.js — [hajs.ru](http://hajs.ru/), [@HaJSru](https://twitter.com/HaJSru)
 
-## Харьков
-
-- KharkivJS — [@kharkivjs](https://twitter.com/kharkivjs)
-
 ## Челябинск
 
 - FRONTday — [frontday.ru](https://frontday.ru), [vk.com/frontday](https://vk.com/frontday), [t.me/frontday](https://t.me/frontday)
 - BeerJS Челябинск — [beerjs/chelyabinsk](https://github.com/beerjs/chelyabinsk), [t.me/beerjs_chel](https://t.me/beerjs_chel)
-
-## Чернигов
-
-- ChernihivJS — [@chernihivjs](https://twitter.com/chernihivjs), [chernihivjs.org.ua](https://chernihivjs.org.ua/)
-
-## Черновцы
-
-- ChernivtsiJS — [@chernivtsijs](https://twitter.com/chernivtsijs), [http://chernivtsi.js.org/](http://chernivtsi.js.org/), [FB: chernivtsijs](https://www.facebook.com/chernivtsijs/)
 
 ## Ярославль
 
