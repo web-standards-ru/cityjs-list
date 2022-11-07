@@ -164,10 +164,6 @@
 - FRONTday — [frontday.ru](https://frontday.ru), [vk.com/frontday](https://vk.com/frontday), [t.me/frontday](https://t.me/frontday)
 - BeerJS Челябинск — [beerjs/chelyabinsk](https://github.com/beerjs/chelyabinsk), [t.me/beerjs_chel](https://t.me/beerjs_chel)
 
-## Чернигов
-
-- ChernihivJS — [@chernihivjs](https://twitter.com/chernihivjs), [chernihivjs.org.ua](https://chernihivjs.org.ua/)
-
 ## Ярославль
 
 - Yaroslavl Frontend Meetup — [@yarfrontend](https://twitter.com/yarfrontend), [yarfrontend.ru](http://yarfrontend.ru)
